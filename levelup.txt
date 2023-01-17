@@ -1,0 +1,31 @@
+Tworzenie tablic NumPy z różnych źródeł danych, takich jak listy, tuple, tablicy zer i jedynek oraz z krokiem.
+
+Zmiana rozmiaru tablic NumPy za pomocą reshape.
+
+Operacje matematyczne na tablicach NumPy, takie jak dodawanie, odejmowanie, mnożenie i dzielenie.
+
+Indeksowanie i wycinanie fragmentów tablic NumPy.
+
+Statystyka z tablic NumPy, takie jak obliczanie średniej, odchylenia standardowego, maksymalnego i minimalnego.
+
+Slicing i indexing on multidimensional array.
+
+Broadcasting array and element-wise operation
+
+Stacking and Splitting of arrays
+
+Sorting and searching in numpy arrays
+
+I/O operations with numpy arrays.
+
+Masking and fancy indexing
+
+Linear algebra operation using numpy, such as dot product, inverse, determinant, eigenvalues, eigenvectors, etc.
+
+Understanding the concept of axis and broadcasting.
+
+Using numpy functions to perform mathematical operations such as trigonometry, logarithms, and exponents.
+
+
+COM: numpy.median(funkcja) <=
+COM: numpy.median(sinus)   <=
