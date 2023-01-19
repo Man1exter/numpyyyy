@@ -15,3 +15,25 @@ print(" ")
 d = np.full((2,2), 69)
 print(d)
 print(" ")
+
+e = np.random.rand(4,2)
+print(e)
+print(" ")
+
+f = np.random.randint(7, size=(3,3))
+print(f)
+print(" ")
+
+g = np.random.randint(2,7, size=(3,3))
+print(g)
+print(" ")
+
+h = np.array([1,2,3])
+h1 = np.repeat(h,5)
+print(h1)
+print(" ")
+
+i = np.array([[1,2,3]])
+i1 = np.repeat(i,5, axis=0)
+print(i1)
+print(" ")
