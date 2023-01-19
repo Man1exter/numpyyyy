@@ -29,3 +29,7 @@ Using numpy functions to perform mathematical operations such as trigonometry, l
 
 COM: numpy.median(funkcja) <=
 COM: numpy.median(sinus)   <=
+
+# 50x faster than Python list #
+
+matlab/plotting/backend/ml
