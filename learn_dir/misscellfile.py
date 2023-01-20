@@ -7,3 +7,5 @@ import numpy as np
 # a > 50 => [FASLE,TRUE,ITD]
 
 # a[a > 50] => check array with those numbers
+
+#(~((a > 50) & (a < 100))) => accept
